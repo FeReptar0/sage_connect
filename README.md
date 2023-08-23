@@ -86,7 +86,7 @@ The following environment variables must be configured for the program to run co
 
 | Variable | Description | Example |
 | :---: | :---: | :---: |
-| WAIT_TIME | Time in hours, to be used for the program to repeat its functionality every x time.  | 2 |
+| WAIT_TIME | Time in minutes, to be used for the program to repeat its functionality every x time.  | 2 |
 | IMPORT_CFDIS_ROUTE | Used to define the path to the sage executable to be called to perform the invoice import process. | C:\Program Files (x86)\Importa CFDIs AP - Focaltec\ImportaFacturasFocaltec.exe | .env|
 | ARG | This is the argument that must be provided for the executable to perform its task. | CMXDAT |
 
